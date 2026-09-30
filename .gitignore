@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node / Frontend
+stackfix-frontend/node_modules/
+stackfix-frontend/dist/
+.DS_Store
